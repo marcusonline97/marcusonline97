@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Marcus 👋
 
-<!--
-**marcusonline97/marcusonline97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a game engine developer passionate about **C++20**, **Vulkan**, and building modular systems.  
+Currently working on **Ark-Engine**, a scalable rendering pipeline for open-world maps.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C++ (modern standards, templates, smart pointers)
+- Vulkan & OpenGL
+- Modular engine architecture
+- UI design with glassmorphism
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Links
+- [Portfolio Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)
+- [GitHub Projects](https://github.com/marcuspersson)
+
+## 📫 Contact
+Want to reach me? Copy my email from the site or connect via LinkedIn.
