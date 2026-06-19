@@ -12,7 +12,6 @@ Currently working on **Ark-Engine**, a scalable rendering pipeline for open-worl
 ## 🌐 Links
 - [Portfolio Website](https://yourwebsite.com)
 - [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)
-- [GitHub Projects](https://github.com/marcuspersson)
 
 ## 📫 Contact
 Want to reach me? Copy my email from the site or connect via LinkedIn.
